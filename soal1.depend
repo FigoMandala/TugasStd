@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1728377560 source:c:\users\asus\documents\belajar\soal1\main.cpp
+	"Kepala.h"
+
+1728377278 c:\users\asus\documents\belajar\soal1\kepala.h
+	<iostream>
+	<string>
+
+1728377295 source:c:\users\asus\documents\belajar\soal1\soal2.cpp
+	"Kepala.h"
+
